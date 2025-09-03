@@ -38,21 +38,15 @@ The Two Pointer technique is a fundamental algorithmic pattern used to solve arr
 - **Best For**: Systematic interview preparation
 - **Cost**: Paid subscription
 
-#### 2. **USACO Guide - Two Pointers**  
-- **Link**: [USACO Two Pointers Tutorial](https://usaco.guide/silver/two-pointers)
-- **What's Great**: Competitive programming focus, contest-level problems
-- **Best For**: Advanced problem solving, contest preparation
-- **Cost**: Free
-
 ### 📚 Free Comprehensive Tutorials
 
-#### 3. **GeeksforGeeks - Two Pointers Technique**
+#### 2. **GeeksforGeeks - Two Pointers Technique**
 - **Link**: [GfG Two Pointers Guide](https://www.geeksforgeeks.org/two-pointers-technique/)
 - **What's Great**: Detailed explanations, multiple examples, code implementations
 - **Best For**: Understanding fundamentals and basic implementations
 - **Cost**: Free
 
-#### 4. **Medium Articles (Curated)**
+#### 3. **Medium Articles (Curated)**
 
 **Essential Reads:**
 - **"LeetCode is Easy! The Two Pointer Pattern"** by Tim Park
