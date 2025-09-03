@@ -36,7 +36,6 @@ The Two Pointer technique is a fundamental algorithmic pattern used to solve arr
 - **Link**: [Educative Two Pointers Pattern](https://www.educative.io/courses/grokking-the-coding-interview)
 - **What's Great**: Interactive visual explanations, structured learning path
 - **Best For**: Systematic interview preparation
-- **Cost**: Paid subscription
 
 ### 📚 Free Comprehensive Tutorials
 
