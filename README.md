@@ -205,7 +205,7 @@ Found a great resource or want to add more examples?
 ### Week 3-4: Pattern Mastery  
 1. Study Educative.io interactive course
 2. Focus on different pattern variations
-3. Solve 20-25 medium problems
+3. Solve 20-30 medium problems
 
 ### Week 5-6: Advanced Applications
 1. Review USACO competitive programming guide
