@@ -12,6 +12,7 @@
 
 ## Overview
 
+Master the Two Pointer Pattern with this comprehensive PDF guide! Learn to identify the right problems in seconds and streamline your coding solutions. Enhance your algorithmic thinking today.
 The Two Pointer technique is a fundamental algorithmic pattern used to solve array and string problems efficiently. Instead of using nested loops (O(n²)), this technique reduces time complexity to O(n) by using two pointers that traverse the data structure strategically.
 
 ## Key Concepts
