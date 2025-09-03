@@ -8,7 +8,6 @@
 - [Implementation Examples](#implementation-examples)
 - [Time Complexity Analysis](#time-complexity-analysis)
 - [Common Patterns](#common-patterns)
-- [Contributing](#contributing)
 
 ## Overview
 
